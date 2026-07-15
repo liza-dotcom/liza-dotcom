@@ -1,16 +1,21 @@
- # Hi, I’m Liza 👋
-I’m a Computer Science student and full-stack developer focused on building practical, real-world applications.
+# Hi, I'm Liza 👋
 
-## Tech & Languages
-Strong: C#, JavaScript  
-Proficient: Java, Python, C  
-Web: HTML, CSS, React  
-Backend: Node.js, PHP, Express, MongoDB, REST APIs  
-Tools: Git & GitHub
+I'm a fourth-year Computer Science student and full-stack developer building and deploying real-world applications.
 
-## What I’m looking for
-Summer internship or junior developer role where I can contribute to real products and grow as a developer.
+## Tech Stack
+- **Languages:** TypeScript, JavaScript, Java, Python, C, SQL
+- **Frontend:** React.js, TypeScript, Vite, HTML5, CSS3
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, GitHub, Vercel, Render
+
+## Featured Project
+**[Movie Tracker](https://github.com/liza-dotcom/Movie-tracker)** — Full-stack movie tracking app built with React/TypeScript, Node.js/Express, and PostgreSQL. Deployed live on Vercel + Render.
+🔗 [Live Demo](https://movie-tracker-frontend-beryl.vercel.app)
+
+## What I'm looking for
+New graduate Software Developer role for 2027 in Canada.
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/liza-choudhry-040498302  
-Email: lizachoudhry19@gmail.com
+- LinkedIn: [liza-choudhry](https://www.linkedin.com/in/liza-choudhry-040498302)
+- Email: lizachoudhry19@gmail.com
